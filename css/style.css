@@ -272,3 +272,13 @@ img {
     height: 111px;
   }
 }
+@media (max-width: 320px) {
+  .sale__block-info {
+    top: -110px;
+    left: 65px;
+  }
+  .sale__block-info-down {
+    top: -60px;
+    left: 65px;
+  }
+}
